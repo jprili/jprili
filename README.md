@@ -1,4 +1,11 @@
-### Hi there 👋
+Hello,
+
+It is me, James. I'm a Physics undergrad studying at UBC.
+
+Thank you for visiting my profile.
+
+-James
+
 
 <!--
 **sbgum/sbgum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
