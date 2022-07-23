@@ -1,6 +1,6 @@
 Hello,
 
-It is me, James. I'm a Physics undergrad studying at UBC.
+It is me, James. I'm a Physics undergrad studying at UBC. Soon, I will be working as an RF Automation Engineer at NETGEAR. 
 
 Thank you for visiting my profile.
 
