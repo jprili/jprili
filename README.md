@@ -1,7 +1,8 @@
 Hello 👋,
 
 It is me, James. I'm a Physics undergrad studying at UBC.  
-Former RF Automation Software Engineer at NETGEAR.  
+Former RF Automation Engineer at NETGEAR.  
+I am currently attending BCIT for the Computer Systems Technology Diploma.
 
 When I'm not doing anything involving the aforementioned,  
 I may be writing code for my personal projects.  
