@@ -1,6 +1,7 @@
 Hello 👋,
 
-It is me, James. I'm a Physics undergrad studying at UBC.  
+It is me, James. 
+Graduated with B.Sc. in Physics at UBC.  
 Former RF Automation Engineer at NETGEAR.  
 I am currently attending BCIT for the Computer Systems Technology Diploma.
 
