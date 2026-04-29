@@ -2,7 +2,7 @@ Hello 👋,
 
 It is me, James.  
 Graduated with B.Sc. in Physics at UBC.  
-Former RF Automation Engineer at NETGEAR.  
+Former RF Automation Engineer at NETGEAR and Jr. Software Developer Co-op at Caracal Tech.  
 I am currently attending BCIT for the Computer Systems Technology Diploma.
 
 When I'm not doing anything involving the aforementioned,  
